@@ -1,0 +1,98 @@
+﻿<!DOCTYPE html>
+<!--
+This is a starter template page. Use this page to start your new project from
+scratch. This page gets rid of all links and provides the needed markup only.
+-->
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>AdminLTE 3 | Top Navigation</title>
+
+    <!-- Google Font: Source Sans Pro -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback">
+    <!-- Font Awesome Icons -->
+    <link rel="stylesheet" href="/Content/AdminLTE-3.1.0/plugins/fontawesome-free/css/all.min.css">
+    <!-- Theme style -->
+    <link rel="stylesheet" href="/Content/AdminLTE-3.1.0/dist/css/adminlte.min.css">
+     @RenderSection("Styles", required: false)
+    <style>
+        .navbar-custom {
+            background-color: #d4edda; /* açık yeşil */
+            padding: 15px 0;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+            text-align: center;
+        }
+
+        .navbar-nav-custom {
+            list-style: none;
+            margin: 0;
+            padding: 0;
+            display: inline-flex;
+            gap: 30px;
+        }
+
+            .navbar-nav-custom li {
+                display: inline;
+            }
+
+            .navbar-nav-custom a {
+                color: #155724; /* koyu yeşil yazı */
+                font-size: 20px;
+                text-decoration: none;
+                font-weight: bold;
+                transition: color 0.3s ease;
+            }
+
+                .navbar-nav-custom a:hover {
+                    color: #0c4128; /* daha koyu yeşil hover efekti */
+                }
+    </style>
+
+</head>
+<body class="hold-transition layout-top-nav">
+    <div class="wrapper">
+
+        <!-- Navbar -->
+        <nav class="navbar-custom">
+            <div class="container">
+                <ul class="navbar-nav-custom">
+                    <li><a href="@Url.Action("Index", "Calendar")">Takvim</a></li>
+                    <li><a href="@Url.Action("Index", "Event")">Etkinlik</a></li>
+                    <li><a href="@Url.Action("Index", "Category")"> Kategori</a></li>
+                </ul>
+            </div>
+        </nav>
+
+        <div class="content-wrapper" style="margin-left: 0; margin-top: 60px;">
+            @RenderBody()
+        </div>
+        <!-- /.navbar -->
+        <!-- Control Sidebar -->
+        <aside class="control-sidebar control-sidebar-dark">
+            <!-- Control sidebar content goes here -->
+        </aside>
+        <!-- /.control-sidebar -->
+        <!-- Main Footer -->
+        <footer class="main-footer">
+            <!-- To the right -->
+            <div class="float-right d-none d-sm-inline">
+                Anything you want
+            </div>
+            <!-- Default to the left -->
+            <strong>Copyright &copy; 2014-2021 <a href="https://adminlte.io">AdminLTE.io</a>.</strong> All rights reserved.
+        </footer>
+    </div>
+    <!-- ./wrapper -->
+    <!-- REQUIRED SCRIPTS -->
+    <!-- jQuery -->
+    <script src="/Content/AdminLTE-3.1.0/plugins/jquery/jquery.min.js"></script>
+    <!-- Bootstrap 4 -->
+    <script src="/Content/AdminLTE-3.1.0/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <!-- AdminLTE App -->
+    <script src="/Content/AdminLTE-3.1.0/dist/js/adminlte.min.js"></script>
+    <!-- AdminLTE for demo purposes -->
+    <script src="/Content/AdminLTE-3.1.0/dist/js/demo.js"></script>
+    @RenderSection("scripts", required: false)
+</body>
+</html>

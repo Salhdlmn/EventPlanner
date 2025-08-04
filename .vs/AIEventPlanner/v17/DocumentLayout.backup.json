@@ -1,0 +1,307 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Monster\\Desktop\\AIEventPlanner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C68B32B0-5A14-42CD-92FB-3D23A1131C03}|AIEventPlanner\\AIEventPlanner.csproj|C:\\Users\\Monster\\Desktop\\AIEventPlanner\\aieventplanner\\controllers\\calendarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C68B32B0-5A14-42CD-92FB-3D23A1131C03}|AIEventPlanner\\AIEventPlanner.csproj|solutionrelative:aieventplanner\\controllers\\calendarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C68B32B0-5A14-42CD-92FB-3D23A1131C03}|AIEventPlanner\\AIEventPlanner.csproj|c:\\users\\monster\\desktop\\aieventplanner\\aieventplanner\\views\\calendar\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C68B32B0-5A14-42CD-92FB-3D23A1131C03}|AIEventPlanner\\AIEventPlanner.csproj|solutionrelative:aieventplanner\\views\\calendar\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C68B32B0-5A14-42CD-92FB-3D23A1131C03}|AIEventPlanner\\AIEventPlanner.csproj|C:\\Users\\Monster\\Desktop\\AIEventPlanner\\aieventplanner\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C68B32B0-5A14-42CD-92FB-3D23A1131C03}|AIEventPlanner\\AIEventPlanner.csproj|solutionrelative:aieventplanner\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C68B32B0-5A14-42CD-92FB-3D23A1131C03}|AIEventPlanner\\AIEventPlanner.csproj|c:\\users\\monster\\desktop\\aieventplanner\\aieventplanner\\views\\event\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C68B32B0-5A14-42CD-92FB-3D23A1131C03}|AIEventPlanner\\AIEventPlanner.csproj|solutionrelative:aieventplanner\\views\\event\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C68B32B0-5A14-42CD-92FB-3D23A1131C03}|AIEventPlanner\\AIEventPlanner.csproj|c:\\users\\monster\\desktop\\aieventplanner\\aieventplanner\\views\\event\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C68B32B0-5A14-42CD-92FB-3D23A1131C03}|AIEventPlanner\\AIEventPlanner.csproj|solutionrelative:aieventplanner\\views\\event\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C68B32B0-5A14-42CD-92FB-3D23A1131C03}|AIEventPlanner\\AIEventPlanner.csproj|c:\\users\\monster\\desktop\\aieventplanner\\aieventplanner\\views\\event\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C68B32B0-5A14-42CD-92FB-3D23A1131C03}|AIEventPlanner\\AIEventPlanner.csproj|solutionrelative:aieventplanner\\views\\event\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C68B32B0-5A14-42CD-92FB-3D23A1131C03}|AIEventPlanner\\AIEventPlanner.csproj|c:\\users\\monster\\desktop\\aieventplanner\\aieventplanner\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C68B32B0-5A14-42CD-92FB-3D23A1131C03}|AIEventPlanner\\AIEventPlanner.csproj|solutionrelative:aieventplanner\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C68B32B0-5A14-42CD-92FB-3D23A1131C03}|AIEventPlanner\\AIEventPlanner.csproj|C:\\Users\\Monster\\Desktop\\AIEventPlanner\\aieventplanner\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C68B32B0-5A14-42CD-92FB-3D23A1131C03}|AIEventPlanner\\AIEventPlanner.csproj|solutionrelative:aieventplanner\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C68B32B0-5A14-42CD-92FB-3D23A1131C03}|AIEventPlanner\\AIEventPlanner.csproj|c:\\users\\monster\\desktop\\aieventplanner\\aieventplanner\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C68B32B0-5A14-42CD-92FB-3D23A1131C03}|AIEventPlanner\\AIEventPlanner.csproj|solutionrelative:aieventplanner\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C68B32B0-5A14-42CD-92FB-3D23A1131C03}|AIEventPlanner\\AIEventPlanner.csproj|c:\\users\\monster\\desktop\\aieventplanner\\aieventplanner\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C68B32B0-5A14-42CD-92FB-3D23A1131C03}|AIEventPlanner\\AIEventPlanner.csproj|solutionrelative:aieventplanner\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C68B32B0-5A14-42CD-92FB-3D23A1131C03}|AIEventPlanner\\AIEventPlanner.csproj|c:\\users\\monster\\desktop\\aieventplanner\\aieventplanner\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C68B32B0-5A14-42CD-92FB-3D23A1131C03}|AIEventPlanner\\AIEventPlanner.csproj|solutionrelative:aieventplanner\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C68B32B0-5A14-42CD-92FB-3D23A1131C03}|AIEventPlanner\\AIEventPlanner.csproj|C:\\Users\\Monster\\Desktop\\AIEventPlanner\\aieventplanner\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C68B32B0-5A14-42CD-92FB-3D23A1131C03}|AIEventPlanner\\AIEventPlanner.csproj|solutionrelative:aieventplanner\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C68B32B0-5A14-42CD-92FB-3D23A1131C03}|AIEventPlanner\\AIEventPlanner.csproj|c:\\users\\monster\\desktop\\aieventplanner\\aieventplanner\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C68B32B0-5A14-42CD-92FB-3D23A1131C03}|AIEventPlanner\\AIEventPlanner.csproj|solutionrelative:aieventplanner\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C68B32B0-5A14-42CD-92FB-3D23A1131C03}|AIEventPlanner\\AIEventPlanner.csproj|C:\\Users\\Monster\\Desktop\\AIEventPlanner\\aieventplanner\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C68B32B0-5A14-42CD-92FB-3D23A1131C03}|AIEventPlanner\\AIEventPlanner.csproj|solutionrelative:aieventplanner\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C68B32B0-5A14-42CD-92FB-3D23A1131C03}|AIEventPlanner\\AIEventPlanner.csproj|C:\\Users\\Monster\\Desktop\\AIEventPlanner\\aieventplanner\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C68B32B0-5A14-42CD-92FB-3D23A1131C03}|AIEventPlanner\\AIEventPlanner.csproj|solutionrelative:aieventplanner\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C68B32B0-5A14-42CD-92FB-3D23A1131C03}|AIEventPlanner\\AIEventPlanner.csproj|C:\\Users\\Monster\\Desktop\\AIEventPlanner\\aieventplanner\\content\\calendar-styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C68B32B0-5A14-42CD-92FB-3D23A1131C03}|AIEventPlanner\\AIEventPlanner.csproj|solutionrelative:aieventplanner\\content\\calendar-styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C68B32B0-5A14-42CD-92FB-3D23A1131C03}|AIEventPlanner\\AIEventPlanner.csproj|C:\\Users\\Monster\\Desktop\\AIEventPlanner\\aieventplanner\\entities\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C68B32B0-5A14-42CD-92FB-3D23A1131C03}|AIEventPlanner\\AIEventPlanner.csproj|solutionrelative:aieventplanner\\entities\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\AIEventPlanner\\AIEventPlanner\\Views\\Event\\Index.cshtml",
+              "RelativeDocumentMoniker": "AIEventPlanner\\Views\\Event\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Monster\\Desktop\\AIEventPlanner\\AIEventPlanner\\Views\\Event\\Index.cshtml",
+              "RelativeToolTip": "AIEventPlanner\\Views\\Event\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwCAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-04T15:38:31.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\AIEventPlanner\\AIEventPlanner\\Views\\Event\\Edit.cshtml",
+              "RelativeDocumentMoniker": "AIEventPlanner\\Views\\Event\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Monster\\Desktop\\AIEventPlanner\\AIEventPlanner\\Views\\Event\\Edit.cshtml",
+              "RelativeToolTip": "AIEventPlanner\\Views\\Event\\Edit.cshtml",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAqwGIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-04T15:37:16.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\AIEventPlanner\\AIEventPlanner\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "AIEventPlanner\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Monster\\Desktop\\AIEventPlanner\\AIEventPlanner\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "AIEventPlanner\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwBQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T14:58:14.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\AIEventPlanner\\AIEventPlanner\\Views\\Event\\Create.cshtml",
+              "RelativeDocumentMoniker": "AIEventPlanner\\Views\\Event\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Monster\\Desktop\\AIEventPlanner\\AIEventPlanner\\Views\\Event\\Create.cshtml",
+              "RelativeToolTip": "AIEventPlanner\\Views\\Event\\Create.cshtml",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAiwFoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-04T14:51:17.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\AIEventPlanner\\AIEventPlanner\\Controllers\\EventController.cs",
+              "RelativeDocumentMoniker": "AIEventPlanner\\Controllers\\EventController.cs",
+              "ToolTip": "C:\\Users\\Monster\\Desktop\\AIEventPlanner\\AIEventPlanner\\Controllers\\EventController.cs",
+              "RelativeToolTip": "AIEventPlanner\\Controllers\\EventController.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAswHIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T10:47:33.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalendarController.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\AIEventPlanner\\AIEventPlanner\\Controllers\\CalendarController.cs",
+              "RelativeDocumentMoniker": "AIEventPlanner\\Controllers\\CalendarController.cs",
+              "ToolTip": "C:\\Users\\Monster\\Desktop\\AIEventPlanner\\AIEventPlanner\\Controllers\\CalendarController.cs",
+              "RelativeToolTip": "AIEventPlanner\\Controllers\\CalendarController.cs",
+              "ViewState": "AgIAAO0AAAAAAAAAAAAUwOoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T08:50:45.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\AIEventPlanner\\AIEventPlanner\\Views\\Calendar\\Index.cshtml",
+              "RelativeDocumentMoniker": "AIEventPlanner\\Views\\Calendar\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Monster\\Desktop\\AIEventPlanner\\AIEventPlanner\\Views\\Calendar\\Index.cshtml",
+              "RelativeToolTip": "AIEventPlanner\\Views\\Calendar\\Index.cshtml",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAQwJoAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-29T09:05:19.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\AIEventPlanner\\AIEventPlanner\\Web.config",
+              "RelativeDocumentMoniker": "AIEventPlanner\\Web.config",
+              "ToolTip": "C:\\Users\\Monster\\Desktop\\AIEventPlanner\\AIEventPlanner\\Web.config",
+              "RelativeToolTip": "AIEventPlanner\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-08-04T15:25:05.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\AIEventPlanner\\AIEventPlanner\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "AIEventPlanner\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Monster\\Desktop\\AIEventPlanner\\AIEventPlanner\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "AIEventPlanner\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-04T14:47:31.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\AIEventPlanner\\AIEventPlanner\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "AIEventPlanner\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Monster\\Desktop\\AIEventPlanner\\AIEventPlanner\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "AIEventPlanner\\Views\\Category\\Create.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAmwD0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-04T14:47:16.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\AIEventPlanner\\AIEventPlanner\\Views\\Category\\Delete.cshtml",
+              "RelativeDocumentMoniker": "AIEventPlanner\\Views\\Category\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Monster\\Desktop\\AIEventPlanner\\AIEventPlanner\\Views\\Category\\Delete.cshtml",
+              "RelativeToolTip": "AIEventPlanner\\Views\\Category\\Delete.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAwwBEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-04T14:55:47.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\AIEventPlanner\\AIEventPlanner\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "AIEventPlanner\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Monster\\Desktop\\AIEventPlanner\\AIEventPlanner\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "AIEventPlanner\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAkwCAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T08:59:50.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\AIEventPlanner\\AIEventPlanner\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "AIEventPlanner\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\Monster\\Desktop\\AIEventPlanner\\AIEventPlanner\\Entities\\Category.cs",
+              "RelativeToolTip": "AIEventPlanner\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T15:37:29.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\AIEventPlanner\\AIEventPlanner\\Views\\Category\\Edit.cshtml",
+              "RelativeDocumentMoniker": "AIEventPlanner\\Views\\Category\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Monster\\Desktop\\AIEventPlanner\\AIEventPlanner\\Views\\Category\\Edit.cshtml",
+              "RelativeToolTip": "AIEventPlanner\\Views\\Category\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-30T09:00:32.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\AIEventPlanner\\AIEventPlanner\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AIEventPlanner\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Monster\\Desktop\\AIEventPlanner\\AIEventPlanner\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AIEventPlanner\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAAAAIwDcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-28T14:57:54.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\AIEventPlanner\\AIEventPlanner\\Entities\\Event.cs",
+              "RelativeDocumentMoniker": "AIEventPlanner\\Entities\\Event.cs",
+              "ToolTip": "C:\\Users\\Monster\\Desktop\\AIEventPlanner\\AIEventPlanner\\Entities\\Event.cs",
+              "RelativeToolTip": "AIEventPlanner\\Entities\\Event.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T09:05:42.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "calendar-styles.css",
+              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\AIEventPlanner\\AIEventPlanner\\Content\\calendar-styles.css",
+              "RelativeDocumentMoniker": "AIEventPlanner\\Content\\calendar-styles.css",
+              "ToolTip": "C:\\Users\\Monster\\Desktop\\AIEventPlanner\\AIEventPlanner\\Content\\calendar-styles.css",
+              "RelativeToolTip": "AIEventPlanner\\Content\\calendar-styles.css",
+              "ViewState": "AgIAANgAAAAAAAAAAAAIwPIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-30T09:23:12.672Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
