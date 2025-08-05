@@ -1,30 +1,30 @@
-# 📅 Etkinlik Takip ve Planlama Uygulaması
+# 📅 Etkinlik Takvimi Uygulaması
 
-Bu proje, kullanıcıların etkinliklerini kategori bazlı olarak planlayıp yönetebilecekleri dinamik bir takvim uygulamasıdır. ASP.NET MVC 5 altyapısı ile geliştirilmiştir ve kullanıcı deneyimini artırmak için modern JavaScript kütüphaneleri ile entegre edilmiştir.
+Kullanıcıların günlük planlarını kolayca yönetmesini sağlayan, interaktif takvim özellikleriyle zenginleştirilmiş bir ASP.NET MVC uygulamasıdır. Etkinlikler kategori bazlı sınıflandırılır ve tüm işlemler kullanıcı dostu bir arayüzle gerçekleştirilir.
 
 ---
 
-## 🚀 Temel Özellikler
+## 🚀 Özellikler
 
-### 🏷️ Kategori Bazlı Renkli Etiketleme  
-- Etkinlikler belirli kategorilere atanabilir.  
-- Her kategori için özel isim ve renk tanımlanabilir.  
-- Takvim üzerinde görsel olarak ayırt edilebilirlik sağlanır.
+### 🏷️ Kategori Bazlı Etkinlik Sınıflandırma
+- Etkinlikler, kullanıcı tarafından belirlenen isim ve renklere sahip kategorilere atanabilir.  
+- Renk kodları ile görsel olarak ayrıştırma sağlanır.
 
-### 🗓️ Etkileşimli Takvim Arayüzü  
-- FullCalendar.js entegrasyonu ile kullanıcı dostu takvim.  
-- Etkinlikler sürükle-bırak yöntemiyle kolayca taşınabilir.  
-- Etkinlik detaylarına tıklayarak erişim sağlanır.  
+### 📆 Dinamik ve Etkileşimli Takvim
+FullCalendar.js entegrasyonu sayesinde:
+- Etkinlikleri takvim üzerinden sürükle-bırak ile taşıma
+- Detayları anında görüntüleme
+- Takvim üzerinden doğrudan yeni etkinlik başlatma
 
-### 🔄 Gerçek Zamanlı Güncellemeler  
-- AJAX destekli form yapısı sayesinde sayfa yenilemeden:  
-  - Etkinlik oluşturma  
-  - Güncelleme  
-  - Silme işlemleri yapılabilir.
+### 🔄 Sayfa Yenilemeden İşlem (AJAX)
+- Etkinlik oluşturma  
+- Etkinlik güncelleme  
+- Etkinlik silme  
+Yukarıdaki işlemler sayfa yenilenmeden yapılabilir.
 
-### 📌 Tüm Günlük Etkinlikler  
-- Etkinliklerin "tüm gün süren" olarak işaretlenmesi desteklenir.  
-- Bu tür etkinlikler özel olarak takvimde işaretlenir.
+### ⏰ Tüm Gün Etkinlik Tanımı
+- Günü tamamen kapsayan etkinlikler tanımlanabilir.  
+- `IsAllDay` özelliği ile uzun süreli etkinlikler kolayca yönetilebilir.
 
 ---
 
